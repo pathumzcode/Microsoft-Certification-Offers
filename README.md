@@ -1,6 +1,6 @@
 # LevelUp Microsoft Certification Voucher Community Guide
 
-![LevelUp Microsoft Certification Voucher Guide — Learn → Practice → Certify](./banner.png)
+![LevelUp Microsoft Certification Voucher Guide — Learn → Practice → Certify](./screenshots/banner.png)
 
 A community-maintained, beginner-friendly guide to using SkillUp with LevelUp and understanding its Microsoft certification preparation voucher offers.
 

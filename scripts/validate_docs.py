@@ -38,6 +38,7 @@ REQUIRED_FILES = (
     "docs/11-complete-course-walkthrough.md",
     "screenshots/README.md",
     "screenshots/manifest.md",
+    "screenshots/banner.png",
 )
 REQUIRED_DIRS = (".github", ".github/ISSUE_TEMPLATE", ".github/workflows", "docs", "screenshots", "scripts")
 MARKDOWN_LINK = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
