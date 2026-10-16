@@ -42,10 +42,6 @@ Complete an email-verification or activation step only if LevelUp requests it.
 
 Follow the instructions sent by LevelUp to the email address you provided. Do not share verification links or codes.
 
-TODO — SCREENSHOT PENDING: `03-account-verification.png` is not captured. A real message or verification screen may be added only with authorization and complete redaction of private information and codes.
-
-*Pending: capture the genuine verification screen only if it can be fully redacted.*
-
 Your account should be verified or activated if LevelUp requires that step; otherwise, continue with the instructions shown on the site.
 
 ## Step 4: Sign in to an existing or newly created account

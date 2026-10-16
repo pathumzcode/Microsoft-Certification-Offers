@@ -31,10 +31,6 @@ The provider and available exam options depend on the certification page and loc
 
 Follow the provider and scheduling options shown by the live Microsoft Learn page. Do not assume a provider or delivery mode that is not shown.
 
-TODO — SCREENSHOT PENDING: `18-exam-provider-selection.png` is not captured. Capture the genuine public provider-selection screen at desktop size and outline the verified next action, if it is publicly available.
-
-*Pending: capture the genuine provider-selection screen if it is publicly accessible.*
-
 You should see the provider and exam options that Microsoft makes available for your certification and region.
 
 ## Step 3: Sign in to the Microsoft Learn profile
@@ -42,10 +38,6 @@ You should see the provider and exam options that Microsoft makes available for 
 Microsoft may prompt you to sign in or create a profile before booking. Microsoft's instructions recommend a personal Microsoft account for the profile.
 
 Sign in or create your own profile through the official prompt. Never share your password or authentication codes.
-
-TODO — SCREENSHOT PENDING: `19-microsoft-profile-sign-in.png` is not captured. If a genuine sign-in view is added, ensure it contains no account information and outline only the verified sign-in action.
-
-*Pending: add a public sign-in screen only if it contains no account information.*
 
 After signing in yourself, the scheduling flow should continue in your Microsoft Learn profile.
 
@@ -55,10 +47,6 @@ Microsoft's scheduling guidance says the profile's legal name must match the ide
 
 Review the name displayed in your own profile and resolve a mismatch through Microsoft's official process before continuing. Do not publish a profile screenshot containing your name or identifiers.
 
-TODO — SCREENSHOT PENDING: `20-profile-name-check.png` is not captured. Do not add a screenshot with real personal details; a permitted, fully redacted screen may be supplied by an authorized contributor.
-
-*Pending: do not capture personal profile details unless complete redaction is possible.*
-
 Your profile name should match the identification you will present, as Microsoft's scheduling guidance requires.
 
 ## Step 5: Select the appointment options
@@ -66,10 +54,6 @@ Your profile name should match the identification you will present, as Microsoft
 The provider presents the available dates, location or online options, language, and policy details. Availability can differ by region and exam.
 
 Review the actual options and current rules in the provider's flow. Choose only an appointment you can attend and whose terms you understand.
-
-TODO — SCREENSHOT PENDING: `21-exam-appointment-options.png` is not captured. Capture only a genuine authorized booking screen; remove candidate identity, appointment references, and other private details.
-
-*Pending: capture a genuine appointment-options screen only after removing private details.*
 
 You should see the options available for your exam and region before confirming anything.
 
@@ -79,10 +63,6 @@ Use the voucher only in the location and manner specified by its own instruction
 
 Enter the code only into the official provider's voucher field when prompted. Confirm the expected discount and final price before continuing. Never include the code in a screenshot or share it with this project.
 
-TODO — SCREENSHOT PENDING: `22-voucher-entry-redacted.png` is intentionally not captured. Do not capture an active voucher code. A screenshot may be added only if the code is fully and irreversibly removed before the image is saved.
-
-*Pending: never capture or publish an active voucher code.*
-
 The provider should show the applicable discount before you proceed; stop if it does not.
 
 ## Step 7: Review and submit the booking
@@ -91,10 +71,6 @@ Check the exam, date, location/delivery choice, price, and cancellation or resch
 
 Submit the booking only after you have reviewed the final details and the voucher is applied as expected.
 
-TODO — SCREENSHOT PENDING: `23-booking-review.png` is not captured. A genuine screenshot may be supplied only with voucher data, candidate identity, payment information, and booking references completely removed.
-
-*Pending: capture a booking review only if all sensitive data is permanently removed.*
-
 Before submitting, the final review should show the exam and appointment details and the expected price.
 
 ## Step 8: Save confirmation and handle errors
@@ -102,10 +78,6 @@ Before submitting, the final review should show the exam and appointment details
 Keep the appointment confirmation and voucher information private. Resolve booking or redemption problems through official support.
 
 Save the provider's confirmation privately. If the code is rejected, the discount does not appear, or the appointment is unclear, stop before paying or retrying and contact LevelUp Helpdesk or the exam provider through official channels.
-
-TODO — SCREENSHOT PENDING: `24-booking-confirmation.png` is not captured. Do not publish a real confirmation containing candidate, account, appointment, or booking-reference details.
-
-*Pending: capture a genuine confirmation only if all personal and booking details can be safely removed.*
 
 After a successful booking, the provider should display a confirmation; keep the real confirmation private.
 
