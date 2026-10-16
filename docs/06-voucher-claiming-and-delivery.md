@@ -26,10 +26,6 @@ The terms checked on 2026-10-16 say that a qualifying learner should receive an 
 
 Check the inbox and spam/junk folder for the address associated with your LevelUp account. Do not share the message or voucher code publicly.
 
-TODO — SCREENSHOT PENDING: `13-voucher-delivery-example.png` is not captured. A genuine email may be shown only with authorization and permanent redaction of the recipient, sender details if private, account identifiers, and every voucher code.
-
-*Pending: capture a genuine voucher email only after permanently removing all codes and personal information.*
-
 If a voucher is issued, its email should arrive according to the timeline stated in the current terms; stock and approval still apply.
 
 ## Step 3: Contact support if the delivery window passes
@@ -49,10 +45,6 @@ The official support route should provide its current private request process af
 If an email arrives, verify it through official LevelUp support if anything looks suspicious, then read the complete voucher-specific instructions.
 
 Review the message privately. Check the stated voucher type, eligible exam, geographic or account restrictions, expiry, and redemption directions. The terms checked on 2026-10-16 require redemption within 60 days from issuance.
-
-TODO — SCREENSHOT PENDING: `16-redacted-voucher-instructions.png` is not captured. Add only a genuine, authorized, permanently redacted message or instruction screen; never show a voucher code or private identifier.
-
-*Pending: capture only genuine instructions with every code and private identifier removed.*
 
 You should be able to verify the voucher type, scope, expiry, and redemption directions from the official message.
 

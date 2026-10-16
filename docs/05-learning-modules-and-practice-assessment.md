@@ -82,10 +82,6 @@ Find the assessment associated with your eligible course. The public AZ-305 outl
 
 Open the practice assessment using the actual control in your signed-in course, only after checking the rules and preparing. Do not assume the attempt can be reset.
 
-TODO — SCREENSHOT PENDING: `10-practice-assessment.png` is not captured. Capture the genuine assessment instructions before submitting, if permitted. Do not expose protected questions, answers, or personal details.
-
-*Pending: capture the genuine assessment instructions and verified start control, if safe to share.*
-
 The assessment instructions and any applicable conditions should be visible before you begin.
 
 ## Step 7: Complete and submit the assessment
@@ -93,10 +89,6 @@ The assessment instructions and any applicable conditions should be visible befo
 Complete the assessment yourself in your own authorized account. This guide does not know or reproduce its questions, response controls, or submission labels.
 
 Follow the assessment instructions and use its actual submission control when ready. Avoid repeated refreshes or relaunches if the page errors.
-
-TODO — SCREENSHOT PENDING: `11-assessment-submit.png` is not captured. Never fabricate an attempt or score. Capture the genuine submission control only if it can be shown without exposing protected questions or answers.
-
-*Pending: capture the real submission control only if protected assessment content is not exposed.*
 
 After you submit the assessment yourself, LevelUp should display a result or status; do not assume it succeeded until it does.
 
